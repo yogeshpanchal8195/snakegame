@@ -1,0 +1,19 @@
+  .row {
+    display: flex;
+  }
+  .food {
+    background-color: rgb(210, 92, 92);
+    border-radius: 40px;
+  }
+  .cell {
+    width: 20px;
+    height: 20px;
+    border: 0.5px solid rgb(174, 172, 172);
+  }
+  .snake-part {
+    background-color: rgb(108, 85, 19);
+  }
+  #snakeboard {
+    border: 0.5px solid rgb(174, 172, 172);
+    width: fit-content;
+  }
